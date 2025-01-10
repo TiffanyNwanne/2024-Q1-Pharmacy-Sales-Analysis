@@ -3,4 +3,4 @@ This notebook provides a structured analysis of monthly pharmaceutical sales dat
 
 ### Dashboard
 
-[Images Folder](https://github.com/TiffanyNwanne/2024-Q1-Pharmacy-Sales-Analysis/tree/main/images/BEDLAND Pharma Sales Performance Analysis.png).
+[![Preview Image](https://github.com/TiffanyNwanne/2024-Q1-Pharmacy-Sales-Analysis/blob/main/images/BEDLAND%20Pharma%20Sales%20Performance%20Analysis.png)](https://github.com/TiffanyNwanne/2024-Q1-Pharmacy-Sales-Analysis/blob/main/images/BEDLAND%20Pharma%20Sales%20Performance%20Analysis.png)
